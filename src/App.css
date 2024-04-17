@@ -1,0 +1,28 @@
+body{
+    background-color: #f1f0eb;
+
+    
+}
+ul{
+    list-style-type: none;
+    margin: auto;
+    padding: right;
+    overflow: hidden;
+    background-color: #232f3e;
+    font-family: 'Times New Roman', Times, serif; 
+    
+}
+li {
+    float: left;
+    
+}
+li a{
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 16px 16px;
+    text-decoration: none;
+    }
+li a:hover{
+    background-color: #ff9900;
+}
