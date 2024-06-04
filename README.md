@@ -19,16 +19,6 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
 app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ![2](https://github.com/21ita28/regform/assets/139788764/1b14af69-d13a-4e63-97e7-a29165359799)
 ![1](https://github.com/21ita28/regform/assets/139788764/34347f26-0ad6-41a9-81ff-652b977639fc)
